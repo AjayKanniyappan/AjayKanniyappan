@@ -64,10 +64,10 @@ I write a code simple and more effective!</i></p>
 ## 📶 Connect with me  
 <div align="center">
 <a href="https://ajaykanniyappan.com" target="_blank">
-<img src=https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white alt=Portfolio style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=Portfolio style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:hi@ajaykanniyappan.com" target="_blank">
-<img src=https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail alt=Mail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Mail style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ajaykanniyappan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
