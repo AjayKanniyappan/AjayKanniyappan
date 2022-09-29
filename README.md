@@ -9,7 +9,7 @@ I write a code simple and more effective!</i></p>
 
 ![Profile views](https://gpvc.arturio.dev/AjayKanniyappan)
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114384910/193103050-5fdc3a9c-41c4-498a-ae8b-844e599e4145.gif" width="400" height="300"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114384910/193103050-5fdc3a9c-41c4-498a-ae8b-844e599e4145.gif" width="400" height="300"/><br/>
 
 ### 👨‍💻 Welcome to My Workspace 
  
