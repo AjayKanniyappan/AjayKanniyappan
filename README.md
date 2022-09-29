@@ -13,7 +13,7 @@ I write a code simple and more effective!</i></p>
 
 ### 👨‍💻 Welcome to My Workspace 
  
-- 🔭 I’m currently working on Github Cross-platform Chat Application.
+- 🔭 I’m currently working on Cross-platform Chat Application.
 
 - 🌱 I’m currently learning Android and Kotlin.
 
